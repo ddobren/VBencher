@@ -17,7 +17,7 @@ Enter URL to benchmark (empty to quit): **https://www.google.com/**
 How many requests do you want to send? **10**
 
 5. Wait for the program to complete the benchmark and display the summary: \
-Completed 10 requests in 11.02 seconds (avg response time: 307 ms)
+Completed 5 requests in 2.50 seconds (avg response time: 500 ms)
 
 6. If you want to benchmark another website, enter `y` when prompted: \
 Do you want to benchmark another website? (y/n): **n**
